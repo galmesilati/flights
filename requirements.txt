@@ -1,2 +1,5 @@
 django
 psycopg2==2.9.6
+djangorestframework
+django-filter
+djangorestframework-simplejwt
